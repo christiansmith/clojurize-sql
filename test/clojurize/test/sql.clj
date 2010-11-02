@@ -1,5 +1,5 @@
-(ns clojurize-sql.test.core
-  (:use [clojurize-sql.core] :reload)
+(ns clojurize.test.sql
+  (:use [clojurize.sql] :reload)
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write

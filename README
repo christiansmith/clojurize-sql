@@ -1,17 +1,10 @@
 # clojurize-sql
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## Installation
-
-FIXME: write
+clojurize-sql is an experimental SQL adapter implementing the Clojurize protocol. The smith at anvil.io is hammering raw bits into shape as you read this.  Learn about Clojurize here: 
+http://anvil.io/2010/10/25/clojurize-the-data-not-the-database.html
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Christian Smith
 
 Distributed under the Eclipse Public License, the same as Clojure.
